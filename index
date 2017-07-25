@@ -1,17 +1,5 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset='utf-8'>
-<meta content='IE=edge,chrome=1' http-equiv='X-UA-Compatible'>
-<title>Orientation | Documentation for Packs of Busy Humans</title>
-<link href="stylesheets/normalize-6197e73d.css" rel="stylesheet" /><link href="stylesheets/all-2e6a9423.css" rel="stylesheet" />
-<script src="javascripts/all-eca7008a.js"></script>
-</meta>
-</meta>
-</head>
-<body class='index'>
 <article>
-<h1><a href="http://orientation.io"><img alt="Orientation" src="images/orientation-7fb6f561.png" /></a></h1>
+<h1><a href="http://orientation.io"><img src="/images/orientation-7fb6f561.png" alt="Orientation" /></a></h1>
 <section class='what'>
 <p>
 <strong>Sharing information is difficult.</strong> We ask each other the
@@ -45,7 +33,7 @@ future so your knowledge stays fresh.
 <h2 id='endorsements'>Endorsement</h2>
 <p>
 If someone else on your team can confirm the usefulness or validity of one
-of your Orientation article, they can endorse it to increase its ranking in
+of your Orientation articles, they can endorse it to increase its ranking in
 search results and make everyone on your team feel more confident.
 </p>
 </div>
@@ -77,20 +65,3 @@ and host the way you like it.
 </section>
 </section>
 </article>
-
-<script>
-  var _gauges = _gauges || [];
-  (function() {
-    var t   = document.createElement('script');
-    t.type  = 'text/javascript';
-    t.async = true;
-    t.id    = 'gauges-tracker';
-    t.setAttribute('data-site-id', '55f71a2992c6ac50840116f3');
-    t.setAttribute('data-track-path', 'https://track.gaug.es/track.gif');
-    t.src = 'https://track.gaug.es/track.js';
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(t, s);
-  })();
-</script>
-</body>
-</html>
